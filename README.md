@@ -25,7 +25,5 @@ otherwise server sends 401 Unauthorized
 
 web pages should be added at local /var/www/html/ directory
 log files should be added at local /var/log/Roshan-Aditya/ directory
-config file should be added at /etc/Roshan-Aditya/ directory
-
-the github link is : https://github.com/Roshan23699/httpServer
+config file should be added at /etc/Roshan-Aditya/ director
 
